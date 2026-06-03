@@ -8,6 +8,8 @@ To explore and understand various prompting techniques used for generating video
 
 To demonstrate how different prompt structures, such as simple prompts and detailed prompts, affect the quality, coherence, creativity, and style of AI-generated videos.
 
+---
+
 ## AI Tool Used
 
 * RunwayML
@@ -55,9 +57,9 @@ Record observations and results.
 
 ---
 
-## Scenario
+# Scenario
 
-### Futuristic City at Sunset
+## Futuristic City at Sunset
 
 ---
 
@@ -67,11 +69,11 @@ Record observations and results.
 
 ### Generated Video Link
 
-Add your generated video link here.
+https://youtu.be/ScMzIvxBSi4
 
 ### Screenshot
 
-Add the screenshot of the generated video here.
+![Simple Prompt Screenshot](https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1200)
 
 ---
 
@@ -81,11 +83,11 @@ Add the screenshot of the generated video here.
 
 ### Generated Video Link
 
-Add your generated video link here.
+https://youtu.be/LXb3EKWsInQ
 
 ### Screenshot
 
-Add the screenshot of the generated video here.
+![Detailed Prompt Screenshot](https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1200)
 
 ---
 
@@ -117,7 +119,7 @@ Add the screenshot of the generated video here.
 
 Simple prompts are useful for quick content generation but may result in generic outputs.
 
-### Detailed prompts provide:
+### Detailed Prompts Provide
 
 * Better scene control
 * Improved visual quality
@@ -132,3 +134,7 @@ Therefore, prompt specificity directly influences the quality and effectiveness 
 ## Result
 
 Thus, the prompting techniques for AI video generation were successfully explored and analyzed using multiple prompt structures. It was observed that detailed prompts generated higher-quality, more creative, and more consistent videos compared to simple prompts.
+
+---
+
+
